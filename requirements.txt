@@ -1,0 +1,9 @@
+# Python 3.9 is required by Ryu 4.34
+pandas
+numpy
+scikit-learn==1.6.1
+joblib
+ryu==4.34
+eventlet==0.30.2
+matplotlib
+seaborn

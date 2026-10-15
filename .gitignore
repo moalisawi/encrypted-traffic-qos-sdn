@@ -1,0 +1,10 @@
+# Trained artefacts and data (regenerate with src/train_model.py)
+model/*.pkl
+dataset/*.csv
+dataset/*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
